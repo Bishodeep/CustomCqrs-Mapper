@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CqrsMapLibrary", "CqrsMapLibrary\CqrsMapLibrary.csproj", "{FBA5F602-6E73-4E7F-8EE7-6DBCDE01DADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBA5F602-6E73-4E7F-8EE7-6DBCDE01DADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA5F602-6E73-4E7F-8EE7-6DBCDE01DADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA5F602-6E73-4E7F-8EE7-6DBCDE01DADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA5F602-6E73-4E7F-8EE7-6DBCDE01DADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
